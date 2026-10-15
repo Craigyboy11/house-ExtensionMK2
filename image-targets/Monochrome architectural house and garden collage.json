@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 1086,
+    "height": 1448,
+    "isRotated": false,
+    "originalWidth": 1086,
+    "originalHeight": 1448
+  },
+  "imagePath": "image-targets/Monochrome architectural house and garden collage_luminance.png",
+  "metadata": null,
+  "name": "Monochrome architectural house and garden collage",
+  "resources": {
+    "originalImage": "Monochrome architectural house and garden collage_original.png",
+    "croppedImage": "Monochrome architectural house and garden collage_cropped.png",
+    "thumbnailImage": "Monochrome architectural house and garden collage_thumbnail.png",
+    "luminanceImage": "Monochrome architectural house and garden collage_luminance.png"
+  },
+  "created": 1792076281205,
+  "updated": 1792076281205
+}

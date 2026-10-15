@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 1086,
+    "height": 1448,
+    "isRotated": false,
+    "originalWidth": 1086,
+    "originalHeight": 1448
+  },
+  "imagePath": "image-targets/house-marker_luminance.png",
+  "metadata": null,
+  "name": "house-marker",
+  "resources": {
+    "originalImage": "house-marker_original.png",
+    "croppedImage": "house-marker_cropped.png",
+    "thumbnailImage": "house-marker_thumbnail.png",
+    "luminanceImage": "house-marker_luminance.png"
+  },
+  "created": 1792076548093,
+  "updated": 1792076548093
+}
